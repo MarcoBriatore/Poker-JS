@@ -1,0 +1,10 @@
+juegos de poker : https://codepen.io/BosmanOne/pen/kkvwGZ
+
+comparar cartas de jugadores
+https://github.com/goldfire/pokersolver
+
+javascript logic
+https://js-css-poker.sourceforge.io/
+
+metodologia de mazo
+https://wsvincent.com/javascript-object-oriented-deck-cards/
